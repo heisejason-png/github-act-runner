@@ -161,3 +161,4 @@ This runner implements the same protocol as the [actions/runner](https://github.
 
 # Does this runner work without github?
 Yes, you can use this runner together with [ChristopherHX/runner.server](https://github.com/ChristopherHX/runner.server) locally on your PC without depending on compatibility with github. Also CI tests for this runner are using [ChristopherHX/runner.server](https://github.com/ChristopherHX/runner.server), this avoids requiring a PAT for github to run tests and ensures that you are always able to run it locally without github.
+Created by Jason Scott Heise
